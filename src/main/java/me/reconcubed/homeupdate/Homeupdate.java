@@ -28,7 +28,7 @@ public final class Homeupdate {
         final IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
 
         // Register Deferred Registers (Does not need to be before Configs)
-//        ModBlocks.BLOCKS.register(modEventBus);
+        ModBlocks.BLOCKS.register(modEventBus);
         ModItems.ITEMS.register(modEventBus);
 //        ModContainerTypes.CONTAINER_TYPES.register(modEventBus);
 //        ModEntityTypes.ENTITY_TYPES.register(modEventBus);

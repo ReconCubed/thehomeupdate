@@ -1,0 +1,9 @@
+{
+	"parent": "homeupdate:custom/carpenters_bench",
+	"textures": {
+		"0": "minecraft:block/oak_planks",
+		"1": "minecraft:block/anvil",
+		"2": "minecraft:block/dark_oak_planks",
+		"particle": "minecraft:block/oak_planks"
+}
+}

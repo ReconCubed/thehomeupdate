@@ -1,4 +1,7 @@
 {
   "item.homeupdate.debug_wand": "Debug Wand",
+
+  "block.homeupdate.carpenters_bench": "Carpenter's Bench",
+
   "itemGroup.homeupdate": "The Home Update"
 }
