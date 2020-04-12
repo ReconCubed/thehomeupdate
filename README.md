@@ -1,2 +1,2 @@
 # The Home Update
-### Adding new and functional decorations while remaining small, fast, and customisable.
+### The Home Update adds new embellishments & decorations for your builds whilst remaining small, customisable, and quick.

@@ -35,8 +35,7 @@ displayURL="https://github.com/ReconCubed/thehomeupdate" #optional
 authors="ReconCubed" #optional
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-The Home Update adds many new and functional decorations while remaining fast, customisable, and small.
-'''
+The Home Update adds new embellishments & decorations for your builds whilst remaining small, customisable, and quick.'''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 #[[dependencies.examplemod]] #optional
