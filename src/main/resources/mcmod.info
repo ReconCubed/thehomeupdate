@@ -1,0 +1,10 @@
+[{
+  "modid": "homeupdate",
+  "name": "The Home Update",
+  "description": "The Home Update adds new decorations whilst remaining small, customisable, and quick.",
+  "version": "1.0-SNAPSHOT",
+  "mcversion": "1.15.2",
+  "url": "https://github.com/ReconCubed/thehomeupdate",
+  "authorList": ["ReconCubed"],
+  "credits": "I'd like to thank my mother and father."
+}]
