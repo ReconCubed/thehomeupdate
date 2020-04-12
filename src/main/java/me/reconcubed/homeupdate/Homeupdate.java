@@ -1,7 +1,7 @@
 package me.reconcubed.homeupdate;
 
 import me.reconcubed.homeupdate.init.ModBlocks;
-
+import me.reconcubed.homeupdate.init.ModItems;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.fml.ModLoadingContext;
 import net.minecraftforge.fml.common.Mod;
@@ -29,7 +29,7 @@ public final class Homeupdate {
 
         // Register Deferred Registers (Does not need to be before Configs)
 //        ModBlocks.BLOCKS.register(modEventBus);
-//        ModItems.ITEMS.register(modEventBus);
+        ModItems.ITEMS.register(modEventBus);
 //        ModContainerTypes.CONTAINER_TYPES.register(modEventBus);
 //        ModEntityTypes.ENTITY_TYPES.register(modEventBus);
 //        ModTileEntityTypes.TILE_ENTITY_TYPES.register(modEventBus);
