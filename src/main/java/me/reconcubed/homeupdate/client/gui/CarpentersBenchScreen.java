@@ -27,7 +27,7 @@ public class CarpentersBenchScreen extends ContainerScreen<CarpentersBenchContai
     @Override
     public void render(final int mouseX, final int mouseY,final float partialTicks) {
         this.renderBackground();
-        this.render(mouseX, mouseY, partialTicks);
+        super.render(mouseX, mouseY, partialTicks);
         this.renderHoveredToolTip(mouseX, mouseY);
     }
 
